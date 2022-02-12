@@ -1,0 +1,7 @@
+[13-Nov-2021 10:40:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home4/drivey2m/admin.drive2mart.com/delivery-boy/header.php on line 141
+[13-Nov-2021 10:40:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'mobile' in /home4/drivey2m/admin.drive2mart.com/delivery-boy/header.php on line 142
+[13-Nov-2021 10:40:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home4/drivey2m/admin.drive2mart.com/includes/custom-functions.php on line 233
+[13-Nov-2021 10:40:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home4/drivey2m/admin.drive2mart.com/includes/custom-functions.php on line 233
+[13-Nov-2021 10:40:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'balance' in /home4/drivey2m/admin.drive2mart.com/includes/custom-functions.php on line 257
+[13-Nov-2021 10:40:41 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home4/drivey2m/admin.drive2mart.com/delivery-boy/home.php on line 65
+[13-Nov-2021 10:40:41 Asia/Kolkata] PHP Warning:  Illegal string offset 'bonus' in /home4/drivey2m/admin.drive2mart.com/includes/custom-functions.php on line 268
