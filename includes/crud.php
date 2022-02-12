@@ -5,7 +5,7 @@
  * @Package Database
  */
 
-define('DOMAIN_URL', 'http://localhost/sukrakart/'); /* chnage to your domain here - don't forget to add forward slash at the end of the URL like this "/" */
+define('DOMAIN_URL', 'http://192.168.43.122/sukrakart/'); /* chnage to your domain here - don't forget to add forward slash at the end of the URL like this "/" */
 define('ALLOW_MODIFICATION', 1);
 define('JWT_SECRET_KEY', 'black_kite'); /* chnage to your secret key here set it to anything you like*/
 
